@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding='ISO-8859-1'?>
+<?xml-stylesheet href="e10.xsl" type="text/xsl"?>
+<tienda>
+  <nombre>La tiendecilla</nombre>
+  <telefono>953 87 12 23</telefono>
+
+  <producto>
+   <codigo>92</codigo>
+   <cantidad>10</cantidad>
+   <articulo>Radio-Casette</articulo>
+  </producto>
+  <producto>
+   <codigo>103</codigo>
+   <cantidad>50</cantidad>
+   <articulo>Reloj Cocina</articulo>
+  </producto>
+  <producto>
+   <codigo>1312</codigo>
+   <cantidad>3</cantidad>
+   <articulo>Sof�</articulo>
+  </producto>
+</tienda>
