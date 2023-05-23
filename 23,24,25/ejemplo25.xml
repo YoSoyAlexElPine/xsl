@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="ejemplo25.xsl"?>
+<universidad>
+    <nombre>Universidad de Victoria</nombre>
+    <pais>España</pais>
+
+    <carreras>
+
+        <carrera id="c01">
+            <nombre>I.T. Informatica</nombre>
+            <plan>2003</plan>
+            <creditos>250</creditos>
+            <centro>Escuela de               Informatica</centro>
+        </carrera>
+
+        <carrera id="c02">
+            <nombre>Dipl. Empresariales</nombre>
+            <plan>2001</plan>
+            <creditos>275</creditos>
+            <centro>Facultad de Ciencias Sociales</centro>
+        </carrera>
+
+        <carrera id="c03">
+            <nombre>Dipl.
+                Relaciones
+                Laborales</nombre>
+            <plan>2001</plan>
+            <creditos>280</creditos>
+            <centro>Facultad              de      
+                Ciencias Sociales</centro>
+            <subdirector>Alfonso Martín  Luque</subdirector>
+        </carrera>
+
+        <carrera id="c06">
+            <nombre>Lic. Humanidades</nombre>
+            <plan>1980</plan>
+            <creditos>475</creditos>
+            <centro>Facultad de Humanidades</centro>
+        </carrera>
+
+    </carreras>
+</universidad>

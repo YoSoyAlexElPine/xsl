@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+    <xsl:template match="universidad">
+        <xsl:text>Universidad de nombre </xsl:text>
+        <xsl:value-of select="nombre" />
+        <xsl:text> de pais </xsl:text>
+        <xsl:value-of select="pais"/>
+        <xsl:apply-templates select="carreras"/>
+    </xsl:template>
+
+    <xsl:template match="carreras">
+        <xsl:text>Carreras: </xsl:text>
+    </xsl:template>
+
+    <xsl:template match="carrera">
+        <xsl:text>Id: </xsl:text>
+        <xsl:value-of select="@id"/>
+        <xsl:text>Nombre: </xsl:text>
+        <xsl:value-of select="nombre"/>
+        <xsl:text>Plan: </xsl:text>
+        <xsl:value-of select="plan"/>
+        <xsl:text>Creditos: </xsl:text>
+        <xsl:value-of select="creditos"/>
+        <xsl:text>Centro: </xsl:text>
+        <xsl:value-of select="centro"/>
+    </xsl:template>
+</xsl:stylesheet>

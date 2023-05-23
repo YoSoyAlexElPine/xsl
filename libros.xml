@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros>
+  <libro>
+    <titulo>El gran Gatsby</titulo>
+    <autor>F. Scott Fitzgerald</autor>
+    <anio>1925</anio>
+  </libro>
+  <libro>
+    <titulo>1984</titulo>
+    <autor>George Orwell</autor>
+    <anio>1949</anio>
+  </libro>
+  <libro>
+  <titulo>Orgullo y prejuicio</titulo>
+  <autor>Jane Austen</autor>
+  <anio>1813</anio>
+</libro>
+<libro>
+  <titulo>En busca del tiempo perdido</titulo>
+  <autor>Marcel Proust</autor>
+  <anio>1913</anio>
+</libro>
+<libro>
+  <titulo>Matar a un ruiseñor</titulo>
+  <autor>Harper Lee</autor>
+  <anio>1960</anio>
+</libro>
+<libro>
+  <titulo>Cien años de soledad</titulo>
+  <autor>Gabriel García Márquez</autor>
+  <anio>1967</anio>
+</libro>
+<libro>
+  <titulo>Ulises</titulo>
+  <autor>James Joyce</autor>
+  <anio>1922</anio>
+</libro>
+<libro>
+  <titulo>Don Quijote de la Mancha</titulo>
+  <autor>Miguel de Cervantes Saavedra</autor>
+  <anio>1605</anio>
+</libro>
+<libro>
+  <titulo>El viejo y el mar</titulo>
+  <autor>Ernest Hemingway</autor>
+  <anio>1952</anio>
+</libro>
+<libro>
+  <titulo>Los hermanos Karamazov</titulo>
+  <autor>Fyodor Dostoevsky</autor>
+  <anio>1880</anio>
+</libro>
+<libro>
+  <titulo>Moby-Dick</titulo>
+  <autor>Herman Melville</autor>
+  <anio>1851</anio>
+</libro>
+<libro>
+  <titulo>El gran Gatsby</titulo>
+  <autor>F. Scott Fitzgerald</autor>
+  <anio>1925</anio>
+</libro>
+<libro>
+  <titulo>1984</titulo>
+  <autor>George Orwell</autor>
+  <anio>1949</anio>
+</libro>
+<libro>
+  <titulo>La Odisea</titulo>
+  <autor>Homer</autor>
+  <anio>800 a.C.</anio>
+</libro>
+<libro>
+  <titulo>La metamorfosis</titulo>
+  <autor>Franz Kafka</autor>
+  <anio>1915</anio>
+</libro>
+<libro>
+  <titulo>Crónicas marcianas</titulo>
+  <autor>Ray Bradbury</autor>
+  <anio>1950</anio>
+</libro>
+<libro>
+  <titulo>El retrato de Dorian Gray</titulo>
+  <autor>Oscar Wilde</autor>
+  <anio>1890</anio>
+</libro>
+<libro>
+  <titulo>El principito</titulo>
+  <autor>Antoine de Saint-Exupéry</autor>
+  <anio>1943</anio>
+</libro>
+<libro>
+  <titulo>Las aventuras de Tom Sawyer</titulo>
+  <autor>Mark Twain</autor>
+  <anio>1876</anio>
+</libro>
+<libro>
+  <titulo>La guerra y la paz</titulo>
+  <autor>León Tolstói</autor>
+  <anio>1869</anio>
+</libro>
+<libro>
+  <titulo>Hamlet</titulo>
+  <autor>William Shakespeare</autor>
+  <anio>1603</anio>
+</libro>
+<libro>
+  <titulo>Frankenstein</titulo>
+  <autor>Mary Shelley</autor>
+  <anio>1818</anio>
+</libro>
+
+</libros>
